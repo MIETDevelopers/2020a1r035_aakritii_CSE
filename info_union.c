@@ -14,7 +14,7 @@ int main()
     union student record2;
  
   
-       strcpy(record1.name, "lavanya");
+       strcpy(record1.name, "aakriti");
        strcpy(record1.subject, "Maths");
        record1.percentage = 86;
  
